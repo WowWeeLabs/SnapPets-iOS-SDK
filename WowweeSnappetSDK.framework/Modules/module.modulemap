@@ -1,0 +1,6 @@
+framework module WowweeSnappetSDK {
+  umbrella header "WowweeSnappetSDK.h"
+
+  export *
+  module * { export * }
+}
